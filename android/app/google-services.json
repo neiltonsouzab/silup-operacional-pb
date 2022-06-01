@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789301164364",
+    "project_id": "pimentabueno",
+    "storage_bucket": "pimentabueno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789301164364:android:abaeddd718a16defff37e9",
+        "android_client_info": {
+          "package_name": "br.com.silup.pb.app.operacional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789301164364-47d6lno3j3ris1mjp8sr4scuu8epdkij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYb3AqUMO5fxXbLh81725qws08QUPmZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789301164364-47d6lno3j3ris1mjp8sr4scuu8epdkij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
